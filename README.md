@@ -55,4 +55,3 @@ I am especially interested in backend/platform work where architecture, reliabil
 
 - GitHub: [@Gonmeso](https://github.com/Gonmeso)
 - LinkedIn: [gonmeso](https://www.linkedin.com/in/gonmeso/)
-- Email: [gmellizosoto@gmail.com](mailto:gmellizosoto@gmail.com)
