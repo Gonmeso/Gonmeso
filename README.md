@@ -1,13 +1,14 @@
 # Gonzalo Mellizo-Soto Diaz
 
-**Backend & Platform Engineer** based in Madrid, Spain. 👋
+**Software Engineer** based in Madrid, Spain. 👋
 
 I enjoy building backend systems, cloud platforms, and developer workflows that are clear, reliable, and pleasant for teams to work with. I usually work close to infrastructure, data, and product problems, turning messy requirements into services that are easier to ship, operate, and evolve.
 
-These days I work as **Lead Backend Developer at Giza**, where I focus on backend architecture, cloud infrastructure, and delivery pipelines for systems in the DeFi and ZKML space.
+These days I work as **Fouding at Nanzen**, where I focus on backend architecture, AI agents development for supplier financial operations.
 
 ## What I Focus On 🔧
 
+- AI Agents development with **MCP servers**, **tool calling**, and specialized agents to automate financial workflows.
 - Backend services and APIs with **Python**, **FastAPI**, and microservice architectures.
 - Cloud infrastructure on **GCP** and **AWS**, including Cloud Run, Cloud SQL, Pub/Sub, GCS, SageMaker, EMR, S3, and Lambda.
 - Platform engineering: **CI/CD**, Terraform, Docker, deployment automation, and production operations.
@@ -25,8 +26,12 @@ These days I work as **Lead Backend Developer at Giza**, where I focus on backen
 
 ## Experience 💼
 
+**Nanzen**  
+Founding Engineer  
+`Python` · `FastAPI` · `Smolagents` · `Fireworks AI` · `Cloud Run` · `Cloud SQL` · `Pub/Sub` · `MCP`
+
 **Giza**  
-Lead Backend Developer  
+Founding Engineer  
 `Python` · `FastAPI` · `GCP` · `Terraform` · `Cloud Run` · `Cloud SQL` · `Pub/Sub` · `Rust` · `TypeScript`
 
 **Adidas**  
